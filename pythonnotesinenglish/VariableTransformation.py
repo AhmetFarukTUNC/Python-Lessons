@@ -1,4 +1,4 @@
-# Değişken Dönüşümü
+# Variable Transformation
 
 x=input("1.sayı : ")
 y=input("2.sayı : ")
@@ -9,11 +9,11 @@ print(type(x))
 
 print(type(y))
 
-# X sayısını int yapma
+# make x number an int
 
 x=int(x)
 
-# Y sayısını int yapma
+# make y number a int
 
 y=int(y)
 
@@ -25,7 +25,7 @@ print(type(x))
 
 print(type(y))
 
-# tüm ifadeyi yorum satırı  yapma(""" ifade """)
+# make comment line all expression(""" expression """)
 
 """
 sajkjsjkj
@@ -44,7 +44,7 @@ sdlkaşdşkdjyfghdşidkfsdjklaşsadhskdrhklekorıwlpd
 
 '''
 
-# yeni örnek
+# New example
 
 x=5 # x = int
 
@@ -62,7 +62,7 @@ print(type(name))
 
 print(type(isOnline))
 
-# Yeni bir örnek
+# A new example
 
 x=10
 
@@ -72,7 +72,7 @@ print(x)
 
 print(type(x))
 
-# Yeni bir örnek
+# New example
 
 y=7.5
 
@@ -82,7 +82,7 @@ print(y)
 
 print(type(y))
 
-# Yeni bir örnek
+# New example
 
 x=2.5
 
@@ -94,7 +94,7 @@ print(toplam3)
 
 print(type(toplam3))
 
-# Yeni bir örnek
+# A new example
 
 x=5
 
