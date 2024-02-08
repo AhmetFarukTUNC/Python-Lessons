@@ -1,4 +1,4 @@
-# What Is The Tpple?
+# What Is The Tuple?
 
 ## A tuple in Python is a data structure that is used to store an ordered sequence of elements. Tuples are similar to lists, but with one key difference: tuples are immutable. Once a tuple is created, its elements cannot be modified or changed. Tuples are defined using parentheses () and elements are separated by commas.
 
