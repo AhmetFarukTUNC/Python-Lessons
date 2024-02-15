@@ -76,7 +76,7 @@
 # Desktop Applications: 
 
 ## Python can be used to develop desktop applications using frameworks like Tkinter and 
-PyQt.
+## PyQt.
 
 # Contributing
 
