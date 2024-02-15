@@ -81,12 +81,11 @@ PyQt.
 # Contributing
 
 ## Contributions to the Python programming language itself are managed through the Python 
-## Enhancement Proposal (PEP) process. For more information on how to contribute to Python, 
-## visit the Python Developer's Guide.
+## Enhancement Proposal (PEP) process.
 
 # License
 
-## Python is open-source software released under the Python Software Foundation License (PSF). For more information, see the LICENSE file.
+## Python is open-source software released under the Python Software Foundation License (PSF). 
 
 
 
