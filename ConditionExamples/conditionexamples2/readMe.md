@@ -8,7 +8,7 @@
 
 # Usage
 
-## Run the script (bmi_calculator.py).
+## Run the script (conditionExamples2.py).
 ## Input your height in centimeters when prompted.
 ## Input your weight in kilograms when prompted.
 

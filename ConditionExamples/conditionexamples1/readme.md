@@ -6,7 +6,7 @@
 
 # Usage
 
-## Run the script (username_password_checker.py).
+## Run the script (conditionexamples1.py).
 
 ## Enter your username and password when prompted.
 

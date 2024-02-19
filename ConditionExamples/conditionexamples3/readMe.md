@@ -18,7 +18,7 @@
 
 ## How to Use
 
-### 1. Run the Python script `driving_license_checker.py`.
+### 1. Run the Python script `conditionexamples3.py`.
 
 ### 2. Enter your name when prompted.
 
