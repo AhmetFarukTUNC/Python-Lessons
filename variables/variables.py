@@ -26,4 +26,16 @@ Y="ANLAŞILIR" # Y is equal to "ANLAŞILIR" string expression.
 
 print(x + Y) # It prints combination of x and Y.
 
-print(x+y) # It returns error because y is integer so number(5) but y is not number anymore so character.
+# print(x+y) # It returns error because y is integer so number(5) but y is not number anymore so character.
+
+news = "I teel news." # news is equal to "I tell news."
+
+print(news) # It is printed news variable.
+
+maturity = "12" # maturity is equal to 12.
+
+print(maturity) # It is printed to maturity variable. 
+
+interestRate = 1.47 # intrestrate is equal to "1.47".
+
+print(interestRate) # it is printed interestrate.
