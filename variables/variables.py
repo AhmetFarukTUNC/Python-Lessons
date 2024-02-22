@@ -39,3 +39,28 @@ print(maturity) # It is printed to maturity variable.
 interestRate = 1.47 # intrestrate is equal to "1.47".
 
 print(interestRate) # it is printed interestrate.
+
+interestRate2 = 1.44 # interestRate2 is equal to 1.44
+
+interestRate1 = 1.47 # interestRate1 is equal to 1.47
+
+print(type(news)) # It is printed type of news.
+
+message = "Welcome " # message is equal to "Welcome".
+
+customerName = "John " # customerName is equal to "John".
+
+customerSurname = "Kennedy." # customerSurname is equal to "Kennedy.".
+
+result = message + customerName + customerSurname # result is equal to combination of message,customerName and customerSurname. 
+
+print(result) # It is printed "Welcome John Kennedy."
+
+number1 = 10
+
+number2 = 20
+
+print(number1 + number2)
+
+print(result) # It is printed "Welcome John Kennedy."
+

@@ -13,3 +13,18 @@ elif not(password == "1234567") and username == "Understandable Economy":
 
 else : 
     print("Username and password is wrong.")
+
+dolarYesterday = 31.
+
+dolarToday = 31.75
+
+if dolarYesterday < dolarToday:
+    print("increasing arrow")
+
+elif dolarYesterday > dolarToday:
+    print("decreasing arrow")
+
+else:
+    print("equal arrow")
+
+print("finished")
