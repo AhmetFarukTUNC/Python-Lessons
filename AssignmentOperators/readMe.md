@@ -6,11 +6,11 @@
 
 ## 1. **=** : Basic assignment operator. Assigns the value on the right-hand side to the variable on the
 
-left-hand side.
+## left-hand side.
    
 ## 2. **+=** : Adds the value on the right-hand side to the variable on the left-hand side and assigns the 
 
-result to the variable.
+## result to the variable.
    
 ## 3. **-=** : Subtracts the value on the right-hand side from the variable on the left-hand side and assigns the result to the variable.
 
