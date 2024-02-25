@@ -42,3 +42,17 @@ numbers.clear()
 
 print(numbers)
 
+cities = list(("Istanbul","Ankara","Çorum"))
+
+cities.reverse()
+
+print(cities)
+
+cities2 = cities
+
+cities2[0] = "İzmir"
+
+print(cities)
+
+# Array is referemce type.
+

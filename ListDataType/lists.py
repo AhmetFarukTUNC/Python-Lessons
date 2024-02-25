@@ -8,6 +8,8 @@ print(information[0]) # We printed first index of list named as information
 
 x = "Ahmet" # We assigned Ahmet string expression to x.
 
+
+
 print(x[2]) # We printed third index of x.It means m
 
 # x[2] = "n" # You can't do assignment in string expressions.
@@ -21,3 +23,15 @@ information3 = [information,information2] # We created a list that contain infor
 print(information3) # We printed information3 list.
 
 print(len(information)) # We printed list length of list named as information.
+
+# nested list
+
+nestedList = ["Mouse",[8,4,6],["a"]]
+
+print(nestedList)
+
+# information[4] = "t"
+
+cities = list(("Ankara","Istanbul"))
+
+print(cities)
