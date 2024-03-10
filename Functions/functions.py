@@ -17,3 +17,15 @@ listCredits()
 print()
 
 listCredits()
+
+def hello(name = "visiter"):
+    print("Hello " + name)
+
+hello();
+
+def calculateHipotenus(a,b):
+    return a*b/2
+
+area = calculateHipotenus(12,24)
+
+print(area)
