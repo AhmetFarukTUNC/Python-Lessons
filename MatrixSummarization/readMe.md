@@ -10,16 +10,15 @@
 
 ### 1. Clone the repository:
 
-#### git clone https://github.com/your-username/matrix-addition.git
-    
+#### git clone https://github.com/AhmetFarukTUNC/Python-Lessons/tree/main/MatrixSummarization
 
 ### 2. Navigate to the project directory:
 
-#### cd matrix-addition
+#### cd MatrixSummarization
 
 ### 3. Run the script:
 
-#### python matrix_addition.py
+#### python ms.py
 
 ## Example
 
