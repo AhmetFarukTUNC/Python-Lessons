@@ -1,29 +1,28 @@
-number = 25
+number = 25 # Number is equal to 25.
 
-right = 10
+right = 10 # Right is equal to 10.
 
-while right > 0:
+while right > 0:  # Loop until the number of guesses is greater than 0
 
-    predict = int(input("Please input a positive number : "))
+    predict = int(input("Please input a positive number : "))  # Take user input
 
-    if predict < 0:
-        print("Number that you entry is not positive.")
-        continue
+    if predict < 0:  # Check if the input is not positive
+        print("Number that you entered is not positive.")
+        continue  # Skip the rest of the loop and start over
     
-    right -= 1
+    right -= 1  # Decrease the number of guesses by 1
 
-    if number == predict:
-          print("You have a correct predict.Congratulations!")
-          break
+    if number == predict:  # Check if the guess is correct
+        print("You have made a correct prediction. Congratulations!")
+        break  # End the loop if the guess is correct
     
-    elif number > predict:
-         if right != 0:
-            print("Up,{} left.".format(right))
+    elif number > predict:  # Check if the guess is lower than the number
+        if right != 0:  # Check if there are remaining guesses
+            print("Up, {} guesses left.".format(right))  # Inform the user about remaining guesses
 
-    else:
-         if right != 0:
-              print("Down,{} left.".format(right))
+    else:  # If the guess is higher than the number
+        if right != 0:  # Check if there are remaining guesses
+            print("Down, {} guesses left.".format(right))  # Inform the user about remaining guesses
 
-    if right == 0:
-         print("You don't have right anymore.")
-    
+    if right == 0:  # Check if there are no remaining guesses
+        print("You don't have any guesses left.")
